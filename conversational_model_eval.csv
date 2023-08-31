@@ -1,0 +1,9 @@
+,Model,Mean_Score
+0,Logistic Regression,0.8842857142857143
+0,Support Vector Machine,0.8814285714285713
+0,Random Forest,0.8792857142857142
+0,Naive Bayes,0.8792857142857142
+0,Decision Tree,0.8535714285714284
+0,Gradient Boosting,0.8864285714285713
+0,AdaBoost,0.8921428571428571
+0,Ridge Classifier,0.8842857142857143
